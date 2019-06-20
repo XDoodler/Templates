@@ -2,9 +2,7 @@
 	Code by Soham Chakrabarti
 */
 #include <bits/stdc++.h>
-
 using namespace std;
-
 #define SCD(t) scanf("%d",&t)
 #define SCLD(t) scanf("%ld",&t)
 #define SCLLD(t) scanf("%lld",&t)
@@ -44,9 +42,7 @@ typedef long long int int64;
 typedef unsigned long long int  uint64;
 template<typename T, typename U> inline void amin(T &x, U y) { if(y < x) x = y; }
 template<typename T, typename U> inline void amax(T &x, U y) { if(x < y) x = y; }
-
 #define DEBUG
-
 #ifdef DEBUG
 
     #define debug(args...)     (Debugger()) , args
