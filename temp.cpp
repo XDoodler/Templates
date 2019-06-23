@@ -1,5 +1,5 @@
 /*
-	Code by Soham Chakrabarti
+	You can use. No charges applied :P
 */
 #include <bits/stdc++.h>
 using namespace std;
